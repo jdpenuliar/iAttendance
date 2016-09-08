@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+	margin: 5px;
+	height: auto;
+	width: auto;
+}
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+    padding: 1px;
+	height: auto;
+	width: auto;
+}
+table, h1, h2{
+	padding-left: 30px;
+}

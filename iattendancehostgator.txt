@@ -1,0 +1,25 @@
+karlvelasquez26@gmail.com
+pass: ug43td30le
+
+Keni ye login. 
+
+portal.hostgator.com
+
+
+You can login to our billing system at http://gbclient.hostgator.com/login, using the email address we sent this email to, and the password
+    Shared Plan:        Hatchling
+    Your Control Panel: https://gator4017.hostgator.com:2083
+    Username:           uaiattend
+    Domain:             uaiattendance.net
+    Password:           0~nuisIbi2iB
+    1st Nameserver:     ns8033.hostgator.com
+    2nd Nameserver:     ns8034.hostgator.com
+    Server IP:          192.185.4.28
+	ftp password: iattendance01
+
+ftp: username: uaiattend
+	password : 0~nuisIbi2iB
+	host: uaiattendance.net
+
+db:	username: uaiatten_admin
+	password: ~ukNTcX^Hn+m
